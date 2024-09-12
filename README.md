@@ -1,3 +1,7 @@
+# Digital Clock
+![image](https://github.com/user-attachments/assets/3226de1d-eb1c-486c-90c5-01a61b65b0e3)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
