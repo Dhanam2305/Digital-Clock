@@ -1,0 +1,62 @@
+.A{
+
+  text-align: center;
+  align-items: center;
+  color: white;
+  
+}
+.B{
+  text-align: center;
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: #00ff00; /* Neon green color */
+  background-color: black; /* Background to resemble a digital display */
+  display: inline-block;
+  padding: 40px;
+  border-radius: 10px;
+  font-size: 48px; /* Size of the clock text */
+  text-align: center;
+  box-shadow: 0 0 20px #00ff00, 0 0 20px #00ff00; /* Glow effect */
+  margin-left: 500px;
+  margin-top: 100px;
+}
+.C{
+  background-image: url(digital/black.jpg);
+  background-size: cover;
+  background-color: black;
+  background-position: 500%;
+  
+  
+}
+.D{
+  color: white;
+}
+.dayStyle {
+  font-size: 32px;
+  color:blue ;
+  transition: 0.2s;
+  margin-left: 800px;
+  padding-bottom:5px;
+  margin-top:80px;
+ }
+  .clockContainerStyle {
+    display: 'flex';
+    flex-direction: 'column';
+    align-items: 'center';
+    justify-Content: 'center';
+    
+    background-Color: black;
+  }
+  .dateStyle{
+    font-size: 32px;
+    margin-left: 500px;
+    
+  color:blue ;
+  transition: 0.2s;
+  padding-bottom: 900px;
+  
+  
+  
+  }
+  
+ 
